@@ -16,5 +16,6 @@ The production company wants to plan their every move analytically based on data
 
 ## Details of files given
 1.IMDB+ question + answers.sql: The SQL file with  code.
+
 2.SQL_RSVP_Executive_Summary.pdf : PDF File with few business related insights
 
